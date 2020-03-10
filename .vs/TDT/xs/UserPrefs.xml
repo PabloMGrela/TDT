@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{7CE59688-9473-77D8-57D6-04F1A25FEEDC}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tuto/Scripts/BuildManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerStats.cs">
     <Files>
-      <File FileName="Assets/Tuto/Scripts/BuildManager.cs" Line="17" Column="42" />
-      <File FileName="Assets/Tuto/Scripts/Node.cs" />
-      <File FileName="Assets/Tuto/Scripts/Bullet.cs" />
-      <File FileName="Assets/Tuto/Scripts/Turret.cs" Line="28" Column="45" />
-      <File FileName="Assets/CameraController.cs" />
-      <File FileName="Assets/Shop.cs" />
+      <File FileName="Assets/Tuto/Scripts/BuildManager.cs" Line="29" Column="30" />
+      <File FileName="Assets/Tuto/Scripts/Node.cs" Line="33" Column="1" />
+      <File FileName="Assets/Tuto/Scripts/Bullet.cs" Line="73" Column="34" />
+      <File FileName="Assets/Tuto/Scripts/Turret.cs" />
+      <File FileName="Assets/Shop.cs" Line="21" Column="57" />
+      <File FileName="Assets/Tuto/Scripts/NewClass.cs" Line="12" Column="1" />
+      <File FileName="Assets/PlayerStats.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,10 +15,9 @@
           <Node name="TDT" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Tuto" expanded="True">
-                <Node name="Scripts" expanded="True">
-                  <Node name="BuildManager.cs" selected="True" />
-                </Node>
+                <Node name="Scripts" expanded="True" />
               </Node>
+              <Node name="PlayerStats.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -26,7 +26,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="724b343f-e12e-42f4-bd37-1c9c38c2e76d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="518b2f06-8d75-4690-b20b-6179e4319cc3" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
