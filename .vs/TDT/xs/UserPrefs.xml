@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{7CE59688-9473-77D8-57D6-04F1A25FEEDC}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tuto/Scripts/BuildManager.cs">
     <Files>
-      <File FileName="Assets/Tuto/Scripts/BuildManager.cs" Line="2" Column="1" />
-      <File FileName="Assets/Tuto/Scripts/Node.cs" Line="32" Column="20" />
+      <File FileName="Assets/Tuto/Scripts/BuildManager.cs" Line="17" Column="42" />
+      <File FileName="Assets/Tuto/Scripts/Node.cs" />
       <File FileName="Assets/Tuto/Scripts/Bullet.cs" />
-      <File FileName="Assets/Tuto/Scripts/Turret.cs" />
-      <File FileName="Assets/CameraController.cs" Line="52" Column="56" />
-      <File FileName="Assets/Shop.cs" Line="21" Column="1" />
+      <File FileName="Assets/Tuto/Scripts/Turret.cs" Line="28" Column="45" />
+      <File FileName="Assets/CameraController.cs" />
+      <File FileName="Assets/Shop.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -26,7 +26,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="90d0a733-c4ba-4121-b618-8f0014c61ca9" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="724b343f-e12e-42f4-bd37-1c9c38c2e76d" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
