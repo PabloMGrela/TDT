@@ -23,6 +23,11 @@ public class Node : MonoBehaviour
         return transform.position + positionOffset;
     }
 
+    public Vector3 GetAnimationPosition()
+    {
+        return transform.position + positionOffset + positionOffset;
+    }
+
     void OnMouseDown(){
         if (!buildManager.CanBuild)
             return;

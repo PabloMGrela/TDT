@@ -10,7 +10,6 @@ public class PlayerStats : MonoBehaviour
         Money = startMoney;
     }
 
-    // Update is called once per frame
     void Update()
     {
         
