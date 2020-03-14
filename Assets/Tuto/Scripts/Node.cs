@@ -8,6 +8,7 @@ public class Node : MonoBehaviour
     [Header("Optional")]
     public GameObject turret;
     private Color startColor;
+    public Color noMoneyColor;
     private Renderer rend;
     BuildManager buildManager;
 
@@ -40,7 +41,13 @@ public class Node : MonoBehaviour
         if (!buildManager.CanBuild){
             return;
         }
-        rend.material.color = hoverColor;
+        if (buildManager.HasMoney)
+        {
+            rend.material.color = hoverColor;
+        } else
+        {
+            rend.material.color = noMoneyColor;
+        }
     }
 
     void OnMouseExit(){
